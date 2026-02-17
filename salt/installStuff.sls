@@ -1,0 +1,2 @@
+lolcat:
+  pkg.installed
